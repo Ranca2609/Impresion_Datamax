@@ -1,0 +1,1 @@
+C:\Users\range\source\repos\app_impresora\app_impresora\app_impresora.csproj;x64

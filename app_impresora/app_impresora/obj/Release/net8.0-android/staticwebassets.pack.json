@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\obj\\Release\\net8.0-android\\scopedcss\\bundle\\app_impresora.styles.css",
+      "PackagePath": "staticwebassets\\app_impresora.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-android\\staticwebassets\\msbuild.app_impresora.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-android\\staticwebassets\\msbuild.build.app_impresora.props",
+      "PackagePath": "build\\app_impresora.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.app_impresora.props",
+      "PackagePath": "buildMultiTargeting\\app_impresora.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.app_impresora.props",
+      "PackagePath": "buildTransitive\\app_impresora.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

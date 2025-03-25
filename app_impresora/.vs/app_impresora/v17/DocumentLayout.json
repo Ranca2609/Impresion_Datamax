@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\range\\source\\repos\\app_impresora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\permissions\\bluetoothpermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\permissions\\bluetoothpermissions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\services\\bluetoothclassicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\services\\bluetoothclassicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\services\\bluetoothservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\services\\bluetoothservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\app_impresora.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\app_impresora.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|c:\\users\\range\\source\\repos\\app_impresora\\app_impresora\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7E3478A-A610-45BF-AA08-70AA3BCFFB9B}|app_impresora\\app_impresora.csproj|solutionrelative:app_impresora\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BluetoothClassicService.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Services\\BluetoothClassicService.cs",
+              "RelativeDocumentMoniker": "app_impresora\\Services\\BluetoothClassicService.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Services\\BluetoothClassicService.cs",
+              "RelativeToolTip": "app_impresora\\Services\\BluetoothClassicService.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAFYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T20:27:36.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "app_impresora\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\MauiProgram.cs",
+              "RelativeToolTip": "app_impresora\\MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:34:21.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BluetoothPermissions.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Permissions\\BluetoothPermissions.cs",
+              "RelativeDocumentMoniker": "app_impresora\\Permissions\\BluetoothPermissions.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Permissions\\BluetoothPermissions.cs",
+              "RelativeToolTip": "app_impresora\\Permissions\\BluetoothPermissions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:30:09.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\MainPage.xaml",
+              "RelativeDocumentMoniker": "app_impresora\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\MainPage.xaml",
+              "RelativeToolTip": "app_impresora\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-15T22:37:21.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BluetoothService.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Services\\BluetoothService.cs",
+              "RelativeDocumentMoniker": "app_impresora\\Services\\BluetoothService.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Services\\BluetoothService.cs",
+              "RelativeToolTip": "app_impresora\\Services\\BluetoothService.cs",
+              "ViewState": "AQIAALUCAAAAAAAAAAAiwAADAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:29:46.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "app_impresora\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "app_impresora\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAACIAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T16:56:36.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "app_impresora\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Components\\Routes.razor",
+              "RelativeToolTip": "app_impresora\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T00:35:25.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "app_impresora\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\MainPage.xaml.cs",
+              "RelativeToolTip": "app_impresora\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T22:37:26.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\App.xaml",
+              "RelativeDocumentMoniker": "app_impresora\\App.xaml",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\App.xaml",
+              "RelativeToolTip": "app_impresora\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-19T17:52:55.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "app_impresora",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\app_impresora.csproj",
+              "RelativeDocumentMoniker": "app_impresora\\app_impresora.csproj",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\app_impresora.csproj",
+              "RelativeToolTip": "app_impresora\\app_impresora.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T00:39:34.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "app_impresora\\Components\\_Imports.razor",
+              "ToolTip": "C:\\Users\\range\\source\\repos\\app_impresora\\app_impresora\\Components\\_Imports.razor",
+              "RelativeToolTip": "app_impresora\\Components\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T00:35:36.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
